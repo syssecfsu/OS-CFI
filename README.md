@@ -5,7 +5,7 @@ We propose a new context for CFI, origin sensitivity, that can effectively break
 
 ## IMPORTANT: Licensing
 
-This project is licensed in GPLv3 with the following additional conditions: 
+This project is licensed in GPLv2 with the following additional conditions: 
 
 1. If you plan to benchmark, compare, evaluate this project with intention to publish the results (including in a paper), you must contact us with your real identity, affiliation, and advisors, and a short description of how you will use our source code before using and/or downloading this project. In addition, you will provide an opportunity for us to comment on and help with technical and other issues related to this project you have during the development. Examples include but are not limited to failure to compile or incomplete protection.
 
